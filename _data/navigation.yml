@@ -13,7 +13,7 @@ main:
     url: /_pages/CV.pdf
     
   - title: "Projects"
-    url: /projects/
+    url: /project/
     
   - title: "Grants"
     url: /grants/
