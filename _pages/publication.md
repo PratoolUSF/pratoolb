@@ -17,7 +17,7 @@ redirect_from:
 Smartphone Sensors for Ranging and Estimating the Intensity of Explosion Events'', in Special
 Issue on Emerging Technologies in Pervasive Sensing, Journal of Pervasive and Mobile Computing
 (PMC), Vol 20/1, Sept 2017.
-* Debraj De, **Pratool Bharti**, Sajal K. Das and Sriram Chellappan, ``Multimodal Wearable Sensing for Fine-Grained Activity Recognition in Healthcare'', in IEEE Internet Computing (IC), Vol 19/5, Sept-Oct 2015.
+* Debraj De, **Pratool Bharti**, Sajal K. Das and Sriram Chellappan, ``Multimodal Wearable Sensing for Fine-Grained Activity Recognition in Healthcare'', in IEEE Internet Computing (IC), Vol 19/5, Sept-Oct 2015. <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=pratool+bharti&oq=prat"> Download paper here</a>
 
 ## Refereed Conferences/ Workshop Publications
 
