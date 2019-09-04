@@ -56,6 +56,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+   display:none;
 }
 
 .page__footer-follow {
@@ -63,6 +64,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+     display:none;
   }
 
   li {
