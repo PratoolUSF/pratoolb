@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <b>Biography</b> <br>
-Dr. Pratool Bharti is an assistant professor at the Department of Computer Science at the Northern Illinois University (NIU) in Dekalb, IL. He is interested in activity recognition, and mental health. <br>
+Dr. Pratool Bharti is an assistant professor at the Department of Computer Science at the Northern Illinois University (NIU) in Dekalb, IL. He is interested in activity recognition, and mental health. <br><br>
 <b>Primary Research Interests</b><br>
 Context-Aware Sensor Fusion, Embedded Machine Learning/ Artificial Intelligence, Computer Vision and Neural Networks
 
