@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pratool Bharti"
   avatar           : "profile.png"
-  bio              : "Assistant Professor \nDept. of Computer Science" 
+  bio              : "Assistant Professor <br>Dept. of Computer Science" 
   employer         : "Northern Illinois University"
   location         : "Dekalb, IL"
   email id         : "pbharti@niu.edu"
