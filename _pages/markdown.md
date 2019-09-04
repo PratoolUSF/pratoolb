@@ -4,7 +4,7 @@ title: "Grants"
 author_profile: true
 redirect_from: 
   - /md/
-  - /grabts.html
+  - /grants.html
 ---
 
 ## Locations of key files/directories
