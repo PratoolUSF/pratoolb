@@ -12,11 +12,11 @@ main:
   - title: "CV"
     url: /_pages/CV.pdf
     
-  - title: "Projects"
-    url: /project/
+ # - title: "Projects"
+   # url: /project/
     
-  - title: "Grants"
-    url: /grants/
+ # - title: "Grants"
+ #   url: /grants/
    
     
   
