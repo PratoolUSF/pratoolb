@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /grants/
+title: "Grants"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /grabts.html
 ---
 
 ## Locations of key files/directories
