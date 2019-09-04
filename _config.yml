@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pratool Bharti"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Dekalb, IL"
+  bio              : "Assistant Professor,Dept. of Computer Science and Engineering" 
   employer         : "Northern Illinois University"
+  location         : "Dekalb, IL"
   email id         : "pbharti@niu.edu"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YLziaVwAAAAJ&hl=en&oi=ao"
