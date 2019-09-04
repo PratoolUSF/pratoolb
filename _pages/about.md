@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<b>Biography</b> \n
+<b>Biography</b> \newline
 Dr. Pratool Bharti is an assistant professor at the Department of Computer Science and Engineering at the Northern Illinois University (NIU) in Dekalb, IL. He is interested in activity recognition, mental health. 
 Research Interests
 Mental Health, Activity Recognition, Data Science
 
-<b>Teaching Interests</b> \n
+<b>Teaching Interests</b> \newline
 Computer Vision
 
-<b>Education</b> \n
+<b>Education</b> \newline
 PhD in Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2107) \n
 B.Tech in Computer Science & Engineering, Kalyani Government Engineering College, India (2010) \n
 
