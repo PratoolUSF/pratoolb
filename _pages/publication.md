@@ -9,7 +9,7 @@ redirect_from:
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
+* **Pratool Bharti**, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', accepted to appear in <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2018.
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
