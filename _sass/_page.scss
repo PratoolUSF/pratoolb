@@ -132,7 +132,7 @@
 
     .wrapper {
       padding-left: 1em;
-      padding-right: 1em;
+      padding-right: 0.5em;
 
       @include breakpoint($x-large) {
         max-width: $x-large;
@@ -172,7 +172,7 @@
   bottom: 0;
   right: 0;
   margin: 0 auto;
-  padding: 2px 5px;
+  padding: 2px 2px;
   color: #fff;
   font-family: $caption-font-family;
   font-size: $type-size-7;
