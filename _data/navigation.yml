@@ -12,6 +12,9 @@ main:
   - title: "CV"
     url: /_pages/CV.pdf
     
+  - title: "News"
+    url: /news/ 
+    
  # - title: "Projects"
    # url: /project/
     
