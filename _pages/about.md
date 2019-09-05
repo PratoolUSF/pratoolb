@@ -17,7 +17,7 @@ Context-Aware Sensor Fusion, Embedded Machine Learning/ Artificial Intelligence,
 Smart and Connected Healthcare, Intelligent Transportation Systems, Pervasive Systems, Participatory Sensing
 
 <b>Teaching Interests</b> <br>
-Computer Vision
+Neural Networks in Computer Vision
 
 <b>Education</b> <br>
 PhD in Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2107) <br>
