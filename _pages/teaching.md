@@ -4,14 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Invited Talks/ Panel Discussion
+## Fall 2019
 <p align="center">
  <ul>
-  <li><b>Identifying Mosquito Species Using Smartphone Cameras</b><br>
-Artificial Intelligence session organized by Intel Corp. at ACM SIGCSE (Special Interest Group of Computer Science Education) Conference, Seattle, WA (Mar 2017).</li>
-<li><b>Opportunities and Challenges in Implementing/Deploying AI</b><br>
-Artificial Intelligence panel discussion organized by Intel Corp. at South by Southwest (SXSW) Conference \& Festivals, Austin, TX (Mar 2017). </li>
-<li><b>Complex activity recognition with Multi-Modal multi-positional body sensing</b><br>
-  6th International Conference on Biostatistics and Bioinformatics, Atlanta, GA (Nov 2017).</li>
+  <li><b>Graduate/Undergraduate Course:</b><br>
+Neural Networks in Computer Vision</li>
   </ul>
   </p>
