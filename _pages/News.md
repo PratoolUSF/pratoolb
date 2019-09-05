@@ -8,7 +8,7 @@ author_profile: true
 ## Currently Hiring
 <p align="center">
  <ul>
-  <li><b>Identifying Mosquito Species Using Smartphone Cameras</b><br>
+  <li class="current_news"><b>Hiring undergraduate and graduate students</b><br>
 Artificial Intelligence session organized by Intel Corp. at ACM SIGCSE (Special Interest Group of Computer Science Education) Conference, Seattle, WA (Mar 2017).</li>
 <li><b>Opportunities and Challenges in Implementing/Deploying AI</b><br>
 Artificial Intelligence panel discussion organized by Intel Corp. at South by Southwest (SXSW) Conference \& Festivals, Austin, TX (Mar 2017). </li>
