@@ -9,7 +9,7 @@ author_profile: true
 <p align="center">
  <ul>
   <li><b>Leveraging Smart-Phone Cameras and Image Processing Techniques to Classify Mosquito Species</b><br>
-  MobiQuitous 2018 - 15th ACM/ EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services<\li>
+  MobiQuitous 2018 - 15th ACM/ EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, New York City, New York (Nov, 2018) </li>
   <li><b>Identifying Mosquito Species Using Smartphone Cameras</b><br>
 Artificial Intelligence session organized by Intel Corp. at ACM SIGCSE (Special Interest Group of Computer Science Education) Conference, Seattle, WA (Mar 2017).</li>
 <li><b>Opportunities and Challenges in Implementing/Deploying AI</b><br>
