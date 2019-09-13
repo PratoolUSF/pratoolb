@@ -8,6 +8,7 @@ author_profile: true
 <!-- ## Currently Hiring -->
 <p align="center">
  <ul>
+  <li> 09/05/2019 - Reviewing publication for <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a></li>
   <li> 09/01/2019 - Serving as a track co-chair (track - Health Informatics and Systems) at 6th International Conference on Networking, Systems and Security (<a href="http://cse.buet.ac.bd/nsyss2019/">NSysS</a>, 2019) </li>
   <li> 08/16/2019 - Started working at NIU as an Assistant Professor </li>
 
