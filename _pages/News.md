@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-## Currently Hiring
+<!-- ## Currently Hiring -->
 <p align="center">
  <ul>
   <li> 08/16/2019 - Started working at NIU as an Assistant Professor </li>
