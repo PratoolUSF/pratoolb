@@ -10,7 +10,7 @@ redirect_from:
 ## Refereed Journal/ Magazine Publications
 <p align="center">
  <ul>
- <li><b>Pratool Bharti</b>, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', in <i>IEEE Transactions on Mobile Computing</i>, vol. 18, no. 4, pp. 857-870, Apr 2019. </li>
+ <li><b>Pratool Bharti</b>, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', in <i>IEEE Transactions on Mobile Computing</i>, vol. 18, no. 4, pp. 857-870, Apr 2019. (<a href="">pdf) </li>
 <li><b>Pratool Bharti</b>, Anurag Panwar, Ganesh Gopalakrishna, and Sriram Chellappan, ``WatchDog: Detecting Self-Harming Activities from Wrist Worn Accelerometers'', in IEEE Journal of Biomedical and Health Informatics (J-BHI), Vol 22/3, May 2018.</li>
 <li> Anthony Windmon, Mona Minakshi, <b>Pratool Bharti</b>, Sriram Chellappan, Marcia Johanssen, Bradlee Jenkins and Ponrathi Athilingam, ``TussisWatch: A Smart-phone System to Identify Cough Episodes as Early Symptoms of Chronic Obstructive Pulmonary Disease and Congestive Heart Failure'', accepted to appear in IEEE Journal of Biomedical and Health Informatics (J-BHI), 2018.</li>
 <li>Kaoutar Ben Ahmed, Bharti Goel, <b>Pratool Bharti</b>, Sriram Chellappan and Mohammed Bouhorma, ``Leveraging Smartphone Sensors to Detect Distracted Driving Activities'', accepted to appear in IEEE Transactions on Intelligent Transportation Systems, 2018.</li>
