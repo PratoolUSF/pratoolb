@@ -10,12 +10,13 @@ redirect_from:
 ## Refereed Journal/ Magazine Publications
 <p align="center">
  <ul>
- <li><b>Pratool Bharti</b>, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', accepted to appear in <i>IEEE Transactions on Mobile Computing (TMC)</i>, 2018. </li>
+ <li><b>Pratool Bharti</b>, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', in <i>IEEE Transactions on Mobile Computing</i>, vol. 18, no. 4, pp. 857-870, Apr 2019. </li>
 <li><b>Pratool Bharti</b>, Anurag Panwar, Ganesh Gopalakrishna, and Sriram Chellappan, ``WatchDog: Detecting Self-Harming Activities from Wrist Worn Accelerometers'', in IEEE Journal of Biomedical and Health Informatics (J-BHI), Vol 22/3, May 2018.</li>
 <li> Anthony Windmon, Mona Minakshi, <b>Pratool Bharti</b>, Sriram Chellappan, Marcia Johanssen, Bradlee Jenkins and Ponrathi Athilingam, ``TussisWatch: A Smart-phone System to Identify Cough Episodes as Early Symptoms of Chronic Obstructive Pulmonary Disease and Congestive Heart Failure'', accepted to appear in IEEE Journal of Biomedical and Health Informatics (J-BHI), 2018.</li>
 <li>Kaoutar Ben Ahmed, Bharti Goel, <b>Pratool Bharti</b>, Sriram Chellappan and Mohammed Bouhorma, ``Leveraging Smartphone Sensors to Detect Distracted Driving Activities'', accepted to appear in IEEE Transactions on Intelligent Transportation Systems, 2018.</li>
 <li>Srinivas Thandu, <b>Pratool Bharti</b>, Sriram Chellappan and Zhaozheng Yin, ``Leveraging Multimodal Smartphone Sensors for Ranging and Estimating the Intensity of Explosion Events'', in Special Issue on Emerging Technologies in Pervasive Sensing, Journal of Pervasive and Mobile Computing (PMC), Vol 20/1, Sept 2017. </li>
-   <li>Debraj De, <b>Pratool Bharti</b>, Sajal K. Das and Sriram Chellappan, ``Multimodal Wearable Sensing for Fine-Grained Activity Recognition in Healthcare'', in IEEE Internet Computing (IC), Vol 19/5, Sept-Oct 2015. <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=pratool+bharti&oq=prat"> Download paper here</a></li></ul></p>
+   <li>Debraj De, <b>Pratool Bharti</b>, Sajal K. Das and Sriram Chellappan, ``Multimodal Wearable Sensing for Fine-Grained Activity Recognition in Healthcare'', in IEEE Internet Computing (IC), Vol 19/5, Sept-Oct 2015. 
+   </li></ul></p>
 
 ## Refereed Conferences/ Workshop Publications
 <p align="center">
