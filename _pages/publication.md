@@ -48,7 +48,5 @@ redirect_from:
 (<a href="https://github.com/PratoolUSF/pratoolb/blob/master/_publications/2015_MDM_TBMC.pdf">pdf</a>)
 </li>
  
- <li>Levi Malott, <b>Pratool Bharti</b>, Nicholas Hilbert, Sriram Chellappan and Ganesh Gopalakrishna, ``Detecting Self-harming Activities with Wearable Devices'', in <i>Proc. of Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices (WristSense) in conjunction with IEEE Intl. Conf. on Pervasive Computing and Communications (PerCom)<i>, St. Louis, Mar 2015. 
-(<a href="https://github.com/PratoolUSF/pratoolb/blob/master/_publications/WS_PerCom_MBHGC_2015.pdf">pdf</a>)
-  </li></ul>
-</p>
+ <li>Levi Malott, <b>Pratool Bharti</b>, Nicholas Hilbert, Sriram Chellappan and Ganesh Gopalakrishna, ``Detecting Self-harming Activities with Wearable Devices'', in <i>Proc. of Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices (WristSense) in conjunction with IEEE Intl. Conf. on Pervasive Computing and Communications (PerCom)<i>, St. Louis, Mar 2015. (<a href="https://github.com/PratoolUSF/pratoolb/blob/master/_publications/WS_PerCom_MBHGC_2015.pdf">pdf</a>)
+</li></ul></p>
