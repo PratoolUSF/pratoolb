@@ -27,7 +27,7 @@ redirect_from:
 ## Refereed Conferences/ Workshop Publications
 <p align="center">
  <ul>
- <li><b>Pratool Bharti</b>, Arup Kanti Dey, Sriram Chellappan and  Theresa Beckie, ``An Experimental Investigation Comparing Age-Specific and Mixed-Age Models for Wearable Assisted Activity Recognition in Women'', in <i>Proc. of 12th International Conference on Health Informatics (HealthInf)</i>, Prague, Czech Republic,Mar 2019. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/HEALTHINF_2019_BDCB.pdf">pdf</a>)</li>
+ <li><b>Pratool Bharti</b>, Arup Kanti Dey, Sriram Chellappan and  Theresa Beckie, ``An Experimental Investigation Comparing Age-Specific and Mixed-Age Models for Wearable Assisted Activity Recognition in Women'', in <i>Proc. of 12th International Conference on Health Informatics (HealthInf)</i>, Prague, Czech Republic, Mar 2019. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/HEALTHINF_2019_BDCB.pdf">pdf</a>)</li>
    
  <li>Mona Minakshi, <b>Pratool Bharti</b> and Sriram Chellappan, ``Leveraging Smart-Phone Cameras and Image Processing Techniques to Classify Mosquito Species'', in Proc. of 15th <i>ACM/ EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous)</i>, New York City, Nov 2018. 
 (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/MBC_MobiQ_18.pdf">pdf</a>)</li>
