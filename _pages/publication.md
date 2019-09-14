@@ -13,9 +13,9 @@ redirect_from:
    
 <li>Kaoutar Ben Ahmed, Bharti Goel, <b>Pratool Bharti</b>, Sriram Chellappan and Mohammed Bouhorma, ``Leveraging Smartphone Sensors to Detect Distracted Driving Activities'', in <i>IEEE Transactions on Intelligent Transportation Systems (ITS)</i>, vol. 20, no. 9, pp. 3303-3312, Sept 2019. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/18_AGB_ITS.pdf">pdf</a>)</li>
 
- <li><b>Pratool Bharti</b>, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', in <i>IEEE Transactions on Mobile Computing (TMC)</i>, vol. 18, no. 4, pp. 857-870, Apr 2019. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/HuMan_TMC_BDCD.pdf">pdf</a>) </li>
-
 <li> Anthony Windmon, Mona Minakshi, <b>Pratool Bharti</b>, Sriram Chellappan, Marcia Johanssen, Bradlee Jenkins and Ponrathi Athilingam, ``TussisWatch: A Smart-phone System to Identify Cough Episodes as Early Symptoms of Chronic Obstructive Pulmonary Disease and Congestive Heart Failure'',  in <i>IEEE Journal of Biomedical and Health Informatics (JBHI)</i>, vol. 23, no. 4, pp. 1566-1573, July 2019. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/18_JBHI_AMB.pdf">pdf</a>)</li>
+
+ <li><b>Pratool Bharti</b>, Debraj De, Sriram Chellappan and Sajal K. Das, ``HuMAn: Complex Activity Recognition with Multi-modal Multi-positional Body Sensing'', in <i>IEEE Transactions on Mobile Computing (TMC)</i>, vol. 18, no. 4, pp. 857-870, Apr 2019. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/HuMan_TMC_BDCD.pdf">pdf</a>) </li>
 
 <li><b>Pratool Bharti</b>, Anurag Panwar, Ganesh Gopalakrishna, and Sriram Chellappan, ``WatchDog: Detecting Self-Harming Activities from Wrist Worn Accelerometers'', in <i>IEEE Journal of Biomedical and Health Informatics (JBHI)</i>, vol. 22, no. 3, pp. 686-696, May 2018. (<a href="https://github.com/PratoolUSF/pratoolb/raw/master/_publications/WatchDog_JBHI_BPGC.pdf">pdf</a>)</li>
 
