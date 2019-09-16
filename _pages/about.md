@@ -20,7 +20,7 @@ Smart and Connected Healthcare, Intelligent Transportation Systems, Pervasive Sy
 Neural Networks in Computer Vision
 
 <b>Education</b> <br>
-PhD in Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2107) <br>
+PhD in Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2017) <br>
 B.Tech in Computer Science & Engineering, Kalyani Government Engineering College, India (2010) <br>
 
 
