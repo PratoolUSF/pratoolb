@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <b>Brief Bio</b> <br>
-Pratool Bharti is an assistant professor in the Department of <a href="http://www.cs.niu.edu/">Computer Science</a> at the <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a> (NIU) in Dekalb, IL. His research interests lie in developing and leveraging pervasive technologies to improve the societal health and well-being. <br><br>
+Pratool Bharti is an assistant professor in the Department of <a href="http://www.cs.niu.edu/">Computer Science</a> at the <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a> (NIU) in Dekalb, IL. His research interests lie in developing and leveraging pervasive technologies to improve the societal health and well-being. <br>
 
 <b>Primary Research Interests</b><br>
 Context-Aware Sensor Fusion, Embedded Machine Learning/ Artificial Intelligence, Computer Vision and Neural Networks
