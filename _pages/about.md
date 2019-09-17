@@ -9,25 +9,20 @@ redirect_from:
 ---
 
 <b>Brief Bio</b> <br>
-Pratool Bharti is an assistant professor in the <a href="http://www.cs.niu.edu/">Department of Computer Science</a> at the <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a> (NIU) in Dekalb, IL. Before joining NIU, he has worked in various software cHis research interests lie in developing and leveraging pervasive technologies to improve the societal health and well-being. He is also interested in intelligent transportation systems, mobile computing and wearable technologies<br>
+Pratool Bharti is an assistant professor in the <a href="http://www.cs.niu.edu/">Department of Computer Science</a> at the <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a> (NIU) in Dekalb, IL. Before joining NIU, he was working as a research and develpoment manager at a computer vision and AI based startup. His research interests lie in developing and leveraging pervasive technologies to improve the societal/individual health and well-being. He is also interested in intelligent transportation systems, mobile computing and wearable technologies<br>
 
 <b>Education</b> <br>
 PhD, Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2017) <br>
 B.Tech, Computer Science & Engineering, Kalyani Government Engineering College, India (2010) <br>
 
 <b>Primary Research Interests</b><br>
-Context-Aware Sensor Fusion, Computer Vision and Neural Networks, Embedded Machine Learning/ Artificial Intelligence 
+Context-aware Sensor Fusion, Computer Vision and Neural Networks, Embedded Machine Learning/ Artificial Intelligence 
 
 <b>Secondary Research Interests</b><br>
 Smart and Connected Healthcare, Intelligent Transportation Systems, Pervasive Systems, Participatory Sensing
 
 <b>Teaching Interests</b> <br>
 Neural Networks in Computer Vision
-
-<b>Professional Committees</b> <br>
-NSF Panelist: SBIR/ STTR programs for Artificial Intelligence, Machine Learning, Natural Language Processing Technologies, [2017, 2018].<br>
-TPC Member: 13th International Conference on Wireless Algorithms, Systems and Applications (WASA), 2018.<br>
-Reviewer Committee: IEEE Trans. on Mobile Computing (TMC), IEEE Trans. on Intelligent Transportation Systems (T-ITS), IEEE Trans. on Network Science and Engineering (TNSE).<br>
 
 
 
