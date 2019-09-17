@@ -22,7 +22,7 @@ Context-aware Sensor Fusion, Computer Vision and Neural Networks, Embedded Machi
 Smart and Connected Healthcare, Intelligent Transportation Systems, Pervasive Systems, Participatory Sensing
 
 <b>Teaching Interests</b> <br>
-Neural Networks in Computer Vision, Machine Learning, Pervasive Computing
+Deep Learning, Computer Vision, Machine Learning, Pervasive Computing
 
 
 
