@@ -12,8 +12,8 @@ redirect_from:
 Pratool Bharti is an assistant professor in the <a href="http://www.cs.niu.edu/">Department of Computer Science</a> at the <a href="https://www.niu.edu/index.shtml">Northern Illinois University</a> (NIU) in Dekalb, IL. Before joining NIU, he was working as a research and develpoment manager at an AI and Computer Vision based startup. His research interests lie in developing and leveraging pervasive technologies to improve the societal/individual health and well-being. He is also interested in intelligent transportation systems, mobile computing and wearable technologies.<br>
 
 <b>Education</b> <br>
-PhD, Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2017) <br>
-B.Tech, Computer Science & Engineering, Kalyani Government Engineering College, Kalyani, WB, India (2010) <br>
+Ph.D., Computer Science & Engineering, University of South Florida, Tampa, FL, USA (2017) <br>
+B.Tech., Computer Science & Engineering, Kalyani Government Engineering College, Kalyani, WB, India (2010) <br>
 
 <b>Primary Research Interests</b><br>
 Context-aware Sensor Fusion, Computer Vision and Neural Networks, Embedded Machine Learning/ AI algorithms
