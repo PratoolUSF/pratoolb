@@ -18,7 +18,8 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.location %}
-    <p class="author__bio fa fa-fw fa-map-marker">{{ author.location }}</p>
+    <p class="author__bio>
+             <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</p>
     {% endif %}
     {% if author.location %}
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }} </br>
