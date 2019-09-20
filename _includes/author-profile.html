@@ -18,10 +18,13 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.location %}
-        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}
+    <p class="author__bio fa fa-fw fa-map-marker">{{ author.location }}</p>
+    {% endif %}
+    {% if author.location %}
+    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }} </br>
       {% endif %}
     {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a>
+        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
       {% endif %}
       {% if author.phone %}
         <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> {{author.phone}}</a>
