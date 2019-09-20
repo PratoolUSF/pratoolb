@@ -19,15 +19,17 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
   <div class="author__content" id="phone">
+    <ul class="author__urls social-icons">
     {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
+        <li><a href="mailto:{{ author.email }}"><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br></li>
       {% endif %}
       {% if author.phone %}
-        <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone " aria-hidden="true"></i> {{author.phone}}</a>
+        <li><a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone " aria-hidden="true"></i> {{author.phone}}</a></li>
       {% endif %}
     {% if author.fax %}
-        <a href="tel:{{ author.fax }}"><i class="fas fa-fw fa-fax phone" aria-hidden="true"></i> {{author.fax}}</a>
+        <li><a href="tel:{{ author.fax }}"><i class="fas fa-fw fa-fax phone" aria-hidden="true"></i> {{author.fax}}</a></li>
       {% endif %}
+  </ul>
   </div>
 
   <div class="author__urls-wrapper">
