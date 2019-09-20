@@ -35,7 +35,13 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></li>
       {% endif %}
-      <li><i class="fas fa-fw fa-phone" aria-hidden="true"></i> 573-466-3209</li>
+      {% if author.phone %}
+        <li><a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> {{author.phone}}</a></li>
+      {% endif %}
+      {% if author.fax %}
+        <li><a href="tel:{{ author.fax }}"><i class="fas fa-fw fa-fax" aria-hidden="true"></i> {{author.fax}}</a></li>
+      {% endif %}
+      
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
