@@ -15,7 +15,13 @@
     max-width: $x-large;
   }
 }
-
+.phone{
+   font-size: .75em;
+    line-height: 1.5;
+    color: #494e52;
+    text-decoration: none;
+    text-underline: none;
+}
 .page {
    padding-right: 0em !important;
   @include breakpoint($large) {
