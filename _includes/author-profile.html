@@ -14,15 +14,15 @@
     {% endif %}
   </div>
 
-  <div class="author__content phone">
+  <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     
     {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope phone" aria-hidden="true"></i> {{author.email}}</a></br>
+        <a href="mailto:{{ author.email }}"><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
       {% endif %}
       {% if author.phone %}
-        <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone phone" aria-hidden="true"></i> {{author.phone}}</a>
+        <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone " aria-hidden="true"></i> {{author.phone}}</a>
       {% endif %}
     {% if author.fax %}
         <a href="tel:{{ author.fax }}"><i class="fas fa-fw fa-fax phone" aria-hidden="true"></i> {{author.fax}}</a>
