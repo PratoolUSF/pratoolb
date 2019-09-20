@@ -17,10 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.location %}
-    <p class="author__bio>
-             <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</p>
-    {% endif %}
+    
     {% if author.location %}
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }} </br>
       {% endif %}
@@ -28,7 +25,7 @@
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
       {% endif %}
       {% if author.phone %}
-        <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> {{author.phone}}</a>
+        <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone author__bio" aria-hidden="true"></i> {{author.phone}}</a>
       {% endif %}
     {% if author.fax %}
         <a href="tel:{{ author.fax }}"><i class="fas fa-fw fa-fax" aria-hidden="true"></i> {{author.fax}}</a>
