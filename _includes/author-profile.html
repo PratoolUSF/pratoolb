@@ -18,7 +18,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   
-  <div class="author__content " id="phone">
+  
    
     {% if author.email %}
         <a href="mailto:{{ author.email }}"><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
@@ -30,7 +30,6 @@
      <a href="tel:{{ author.fax }}"><i  id="phone" class="fas fa-fw fa-fax" aria-hidden="true"></i> {{author.fax}}</a>
       {% endif %}
  
-  </div>
 </div>
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
