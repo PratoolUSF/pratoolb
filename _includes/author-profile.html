@@ -21,7 +21,7 @@
   
    <div class="author__content" id="phone">
     {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
+        <a href="mailto:{{ author.email }}" style='color: green;><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
       {% endif %}
       {% if author.phone %}
         <a href="tel:{{ author.phone }}"><i id="phone" class="fas fa-fw fa-phone " aria-hidden="true"></i> {{author.phone}}</a>
