@@ -24,6 +24,15 @@
    padding-left: 0px !important;;
        
 }
+.author__content #phone{
+    font-size: .75em;
+    line-height: 1.5;
+    color: #494e52 !important;
+    text-decoration: none !important;
+    text-underline: none;
+   padding-left: 0px !important;;
+       
+}
 .page {
    padding-right: 0em !important;
   @include breakpoint($large) {
