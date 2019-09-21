@@ -24,10 +24,10 @@
         <a href="mailto:{{ author.email }}"><i id="phone" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{author.email}}</a></br>
       {% endif %}
       {% if author.phone %}
-        <a href="tel:{{ author.phone }}"><i class="fas fa-fw fa-phone " aria-hidden="true"></i> {{author.phone}}</a>
+        <a href="tel:{{ author.phone }}"><i id="phone" class="fas fa-fw fa-phone " aria-hidden="true"></i> {{author.phone}}</a>
       {% endif %}
     {% if author.fax %}
-     <a href="tel:{{ author.fax }}"><i class="fas fa-fw fa-fax phone" aria-hidden="true"></i> {{author.fax}}</a>
+     <a href="tel:{{ author.fax }}"><i  id="phone" class="fas fa-fw fa-fax" aria-hidden="true"></i> {{author.fax}}</a>
       {% endif %}
  
   </div>
