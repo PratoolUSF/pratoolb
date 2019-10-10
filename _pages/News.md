@@ -8,6 +8,8 @@ author_profile: true
 <!-- ## Currently Hiring -->
 <p align="center">
  <ul>
+  
+   <li> 10/10/2019 - Submitted a journal "A Deep Learning Framework to Automatically Identify Mosquito Species using Smartphone Images" in IEEE Transactions on Mobile Computing. </li>
   <li> 09/09/2019 - Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979">IEEE Transactions on Intelligent Transportation Systems</a>.</li>
   <li> 09/08/2019 - Reviewer for <a href="https://health.embs.org">IEEE Journal of Translational Engineering in Health and Medicine</a>.</li>
   <li> 09/05/2019 - Reviewer for <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors</a>.</li>
