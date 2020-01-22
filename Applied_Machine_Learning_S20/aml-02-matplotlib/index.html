@@ -15,31 +15,18 @@
 
 class: center, middle
 
-### W4995 Applied Machine Learning
+### Applied Machine Learning
 
 # Visualization and Matplotlib
 
-01/30/19
+01/22/20
 
-Andreas C. Müller
+Pratool Bharti
+
+Slides credit - Andreas C. Müller (Columbia Unuiversity)
 
 ???
-Hi everybody.
 
-
-Today we'll be diving into visualization and matplotlib. Next time we'll finally actually start
-with machine learning.
-
-Again, slides and slide notes for this are online.
-
-FIXME Actually perfect length!
-FIXME talk about legends?
-FIXME gridspec instead of matlab style subplots?
-FIXME do some seaborn
-FIXME more from Jake's book
-FIXME more from Claus Wilke's book
-FIXME 3d animations /interactivity
-FIXME constraint layouts?
 ---
 class: center, middle
 
@@ -67,26 +54,7 @@ class: center, padding-top, spacious
 
 # Why?
 ???
-So first, I want to ask why we might want to visualize data. And I think
-there are two main reasons.
-The first is for ourselves, to explore the data, make hypothesis and
-find interesting trends.
-The other is to communicate either the whole data, or particular aspects
-or findings about the data. I think both are important, but for the
-matter of this class, I think the exploration is more important.
-In general, you should think about what the point of any visualization is,
-and whether the method you chose is the best for this purpose.
 
-In many of my capstone reports last semester I had people show all kinds of
-charts and graphs and often the description was "here is a bar-plot of 
-quantity X". So what? Why are you showing me this? What's the conclusion?
-Ideally a visualization should answer a question. In exploratory analysis,
-the answer might be "there's nothing interesting here", but you should
-still have some idea what you're looking for.
-
-So I want to briefly talk about some very basics of data visualization. I’ll post
-two great books as references if you’re curious, and I linked to a PhD
-thesis which has a great introduction, and from which I stole some illustrations.
 
 --
 
@@ -99,8 +67,7 @@ thesis which has a great introduction, and from which I stole some illustrations
 class: padding-top, spacious
 
 Above else, show the data.<br />
-Maximize the data-ink ratio.
-.quote_author[E. Tufte]
+Maximize the data-ink ratio. -  .quote_author[E. Tufte]
 
 ???
 Here two quotes I want to start with. The first two
@@ -130,14 +97,14 @@ and spending time making it right.
 
 --
 
-Tools matter.
+Tools matter. - 
 .quote_author[W. S. Cleveland]
 
 
 --
 Label stuff.<br />
-Spend more time.
-.quote_author[me]
+Spend more time. - 
+.quote_author[Andreas C. Muller]
 
 ---
 class: center, middle
@@ -281,60 +248,6 @@ are the perceptually uniform ones down here. These are carefully
 designed to ideally show quantitative information.
 So let's talk about how they are different.
 
----
-class: center
-![:scale 35%](images/colormap_evaluation_gray.png)
-
-???
-So what’s the problem with these other colormaps. This is an evaluation
-of the grey color map. Let's look at the panels on the right first. There
-are three heat maps here. So each pixel here represents a floating point
-value on some scale. 
-On the left you see at the top the perceived changes in the color map,
-using a model of the human visual system. You can see that it's pretty
-constant. And at the bottom left you can see the the color map as a path
-in the 3d color space. This space is not RGB, it's a CIE color space
-that corresponds more to how humans perceive color. In the RGB space,
-humans can detect finer nuances in green than in red, for example.
-
-Each color map is a path in this 3d space. And ideally, you'd like
-this to be a smooth path, and you'd like the speed to be constant.
-The perceptual contrast at the top is something like the derivative,
-or speed, of the color map going through the perceptual space.
----
-class: center
-![:scale 35%](images/colormap_evaluation_gray.png)
-.left-column[
-![:scale 80%](images/colormap_evaluation_jet.png)
-]
-.right-column[
-![:scale 80%](images/colormap_evaluation_viridis.png)
-]
-
-???
-Now let’s look at this in the jet color map. you see that green ring
-that looks like it has some boundary? Or the red core? Where are these
-in the greyscale? They are not there, because the are not in the data.
-So why does it look like there are edges? here is the color map, and this
-shows the differences in perceived color. You see these spikes? that’s
-where we perceive edges, because the color map has edges! Also here
-is the colormap converted to greyscale, say if someone printed it. and
-below are the brightness deltas. Do you see something?
-It’s not monotonous. It doesn’t go from dark to bright, it backs up
-on itself.
---
-???
-And here’s one of the perceptual uniform colormaps In comparison.
-You can see that there’s a bit more detail then in the gray one, but
-no artificial contours appear. That’s because there are no perceptual
-edges. Also, the change in brightness is constant, so if you convert it
-to greyscale, you just got the greyscale colormap back.
-The other plots here show how it looks for various forms of
-color-blindness, and the path of the colormap  in a perceptual 3d
-color space.
-I posted a cool video explaining way more details on this on the course
-website.
-
 
 ---
 class: center, middle
@@ -447,22 +360,7 @@ YES!
 - no changes to previous figures
 ]
 --
-.right-column[
-`%matplotlib notebook`
-- interactivity in old notebook
-- doesn't work in jupyter lab
-- need to create separate figures
-- ability to update figures
-]
---
-.clear-column[
-`%matplotlib widget`
-- interactive widget
-- all figure features
-- need to create separate figures explicitly
-- ability to update figures
-- installation instructions: https://github.com/matplotlib/jupyter-matplotlib 
-]
+
 
 ???
 I highly recommend that you use jupyter to play around with matplotlib
